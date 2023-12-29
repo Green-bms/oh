@@ -1,5 +1,5 @@
 # OH!
-Open Hardware Video Magazine
+![alt-text](https://github.com/Green-bms/oh/blob/master/Logo/Oh%20video%20magazine.png))
 
 OH! is a video magazine of Opensource Hardware projects streaming for free on @oh_video Youtube channel.
 
