@@ -13,6 +13,16 @@ In this issue we see how to program the WS2812B 8x8 RGB LED matrices.<br>
 
 Resources: https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%201
 
+### Issue 02 - Stop If Crash Watchdog
+Streaming release date: 13/01/2024 <br>
+
+Youtube page: https://youtu.be/fLkRN2xnHXY?si=DeNB-EbN8AmZp_JL <br>
+
+In this issue I present my project "Stop If Crash", a simple Watchdog circuit based on IC NE555.
+We will see together a simulation of the circuit, the design of the PCB with Kicad, the assembly with the functional test in the laboratory.<br>
+
+Resources: https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%2002
+
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
 
