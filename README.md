@@ -23,6 +23,30 @@ We will see together a simulation of the circuit, the design of the PCB with Kic
 
 Resources: https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%2002
 
+### Issue 03 - OpticalShow
+Streaming release date: 30/01/2024 <br>
+
+Youtube page: https://youtu.be/mVdG0zdTeCE?si=hjvFPSwVRxgswea1 <br>
+
+OpticalShow is a system that uses optical fibers to transmit the light emitted by an RGB LED matrix.
+Each fiber is associated with its own LED and allows you to remote its RGB light to animate projects, such as panels, maps, artistic objects and wearables.
+in this issue, in addition to describing the OpticalShow system, I show two application examples: "The world is mine!", a map of the world animated and illuminated by optical fibers and "Gloween Show" a small panel used in the Halloween party.<br>
+
+Resources: 
+
+- OpticalShow.
+Hackaday: https://hackaday.io/project/189963-opticalshow<br>
+Github: https://github.com/Green-bms/OpticalShow<br>
+You can buy mask here: https://www.pcbway.com/project/shareproject/OpticalShow_mask_225f24a0.html<br>
+You can buy card here: https://www.pcbway.com/project/shareproject/OpticalShow_card_PCB_6144c0a7.html<br>
+
+- The World is mine.
+https://www.instructables.com/The-World-Is-Mine/
+
+- Gloween Show.
+https://www.instructables.com/Gloween-Show/
+
+
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
 
