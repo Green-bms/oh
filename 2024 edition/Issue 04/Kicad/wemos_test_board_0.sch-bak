@@ -1,0 +1,73 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Wemos Mini test board"
+Date "2023-11-04"
+Rev "0.00"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 5250 5900 0    98   ~ 0
+PCB holes
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6220BD61
+P 5750 6150
+F 0 "H2" H 5850 6196 50  0000 L CNN
+F 1 "Hole" H 5850 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5750 6150 50  0001 C CNN
+F 3 "~" H 5750 6150 50  0001 C CNN
+	1    5750 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6220B557
+P 5300 6150
+F 0 "H1" H 5400 6196 50  0000 L CNN
+F 1 "Hole" H 5400 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 6150 50  0001 C CNN
+F 3 "~" H 5300 6150 50  0001 C CNN
+	1    5300 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Module:WeMos_D1_mini U1
+U 1 1 614DE584
+P 5000 3150
+F 0 "U1" H 4550 2350 50  0000 C CNN
+F 1 "WeMos_D1_mini" H 4600 2250 50  0000 C CNN
+F 2 "Module:WEMOS_D1_mini_light" H 5000 2000 50  0001 C CNN
+F 3 "https://wiki.wemos.cc/products:d1:d1_mini#documentation" H 3150 2000 50  0001 C CNN
+	1    5000 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 654632BB
+P 6250 6150
+F 0 "H3" H 6350 6196 50  0000 L CNN
+F 1 "Hole" H 6350 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6250 6150 50  0001 C CNN
+F 3 "~" H 6250 6150 50  0001 C CNN
+	1    6250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 654640E0
+P 6750 6150
+F 0 "H4" H 6850 6196 50  0000 L CNN
+F 1 "Hole" H 6850 6105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6750 6150 50  0001 C CNN
+F 3 "~" H 6750 6150 50  0001 C CNN
+	1    6750 6150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
