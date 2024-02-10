@@ -46,6 +46,22 @@ https://www.instructables.com/The-World-Is-Mine/
 - Gloween Show.
 https://www.instructables.com/Gloween-Show/
 
+### Issue 04 - CNC PCB milling
+Streaming release date: 13/02/2024 <br>
+
+Youtube page: https://www.youtube.com/watch?v=61v8TkvMFBA <br>
+Make PCB with CNC milling machine <br>
+In this issue I present to you my economical CNC milling machine Vevor CNC 3018 PRO, with which I started making PCBs for my simplest projects.
+In addition to describing the milling machine, we will create a small step by step project together, from the CAD drawing of the PCB to the milling!<br>
+
+If you also want to practice with the same PCB shown in the video, you can download all the CAD, CAM and CNC files from the following link:<br>
+https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%2004 <br>
+
+Opensource applications used :<br>
+ - Kicad: https://www.kicad.org/ <br>
+ - Flatcam: http://flatcam.org/ <br>
+ - Candle: https://github.com/Denvi/Candle <br>
+
 
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
