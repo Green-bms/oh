@@ -77,7 +77,7 @@ Vectrix Vx1 and e-max 110s
 I have decided to share with you this exciting experience that lasted 10 years.
 
 I have shared the documents of my upgrades at the following links:
-https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%200
+https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%2005
 
 
 ## Warning
