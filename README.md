@@ -62,6 +62,23 @@ Opensource applications used :<br>
  - Flatcam: http://flatcam.org/ <br>
  - Candle: https://github.com/Denvi/Candle <br>
 
+### Issue 05 - EV Lithium upgrades
+Streaming release date: 27/02/2024 <br>
+
+Youtube page: https://www.youtube.com/watch?v=jmhK0d0eKHg <br>
+In this issue I take a trip back in time to tell you about my projects related to electric mobility.
+Today there is a lot of talk about electric mobility.
+I started to be interested in 2-wheeled electric vehicles in 2013, so I could go to work every day while polluting less!
+I gave life back to 3 electric motorbikes that had exhausted batteries, transforming them into high-performance vehicles, with lithium batteries!
+The vehicles I upgraded are:
+E-tropolis Belair,
+Vectrix Vx1 and e-max 110s
+
+I have decided to share with you this exciting experience that lasted 10 years.
+
+I have shared the documents of my upgrades at the following links:
+https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%200
+
 
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
