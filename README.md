@@ -79,6 +79,15 @@ I have decided to share with you this exciting experience that lasted 10 years.
 I have shared the documents of my upgrades at the following links:
 https://github.com/Green-bms/oh/tree/master/2024%20edition/Issue%2005
 
+### Issue 06 - Smart BMS (part 1)
+Streaming release date: 12/03/2024 <br>
+
+Youtube page: https://youtu.be/0NjMYVWZLLw?si=yNR26aHXIvKIdVsY <br>
+In this issue I start to talk to you about my first Opensource project: Smart BMS - Battery Management System.<br>
+I have shared the documents of the project at the following links: <br>
+Github: https://github.com/Green-bms/SmartBMS <br>
+Hackaday: https://hackaday.io/project/181453-green-bms <br>
+
 
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
