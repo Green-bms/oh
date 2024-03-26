@@ -88,6 +88,14 @@ I have shared the documents of the project at the following links: <br>
 Github: https://github.com/Green-bms/SmartBMS <br>
 Hackaday: https://hackaday.io/project/181453-green-bms <br>
 
+### Issue 07 - Smart BMS (part 2)
+Streaming release date: 26/03/2024 <br>
+
+Youtube page: https://youtu.be/d0Qe47wP7eQ?si=s2jLH3D_zc0WCvRl  <br>
+In this issue I continue to describe my first Opensource project: Smart BMS - Battery Management System <br>
+I have shared the documents of the project at the following links: <br>
+Github: https://github.com/Green-bms/SmartBMS <br>
+Hackaday: https://hackaday.io/project/181453-green-bms <br>
 
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
