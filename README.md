@@ -97,6 +97,43 @@ I have shared the documents of the project at the following links: <br>
 Github: https://github.com/Green-bms/SmartBMS <br>
 Hackaday: https://hackaday.io/project/181453-green-bms <br>
 
+### Issue 08 - Smart BMS (part 3)
+Streaming release date: 09/04/2024 <br>
+
+Youtube page: https://youtu.be/FND_0AVq5Ik?si=xOSsRHYRp_0sxjTm <br>
+In this issue I continue to describe my first Opensource project: Smart BMS - Battery Management System <br>
+I have shared the documents of the project at the following links: <br>
+Github: https://github.com/Green-bms/SmartBMS <br>
+Hackaday: https://hackaday.io/project/181453-green-bms <br>
+
+### Issue 09 - Green Detect Wireless Sensor Network
+Streaming release date: 23/04/2024 <br>
+
+Youtube page: https://youtu.be/QgU09LJju4c?si=UmGGuCsF_K0YVous <br>
+In this issue I describe my  Opensource project: Green Detect Wireless Sensor Network Platform (WSN) , for environmental monitoring. <br>
+I have shared the documents of the project at the following links: <br>
+Github:  https://github.com/Green-bms/GreenDetect <br>
+Hackaday: https://hackaday.io/project/186064-green-detect <br>
+
+### Issue 10 - Green Detect Windows application
+Streaming release date: 07/05/2024 <br>
+
+Youtube page: https://youtu.be/rTwm69dqrus?si=7FWuEQkdGhM1CUF- <br>
+In this issue I describe the Green Detect application in detail.
+I show you how to manage and configure the wireless sensor network. <br>
+I have shared the documents of the project at the following links: <br>
+Github:  https://github.com/Green-bms/GreenDetect <br>
+Hackaday: https://hackaday.io/project/186064-green-detect <br>
+
+### Issue 11 - Green Detect Windows application
+Streaming release date: 21/05/2024 <br>
+
+Youtube page: https://youtu.be/-PUpspmr6Rk?si=hIGa6V5kiF8c8neI <br>
+This issue is dedicated to system tests, we will test a network with 60 modules, fault simulations and a working prototype on the balcony of my house! <br>
+I have shared the documents of the project at the following links: <br>
+Github:  https://github.com/Green-bms/GreenDetect <br>
+Hackaday: https://hackaday.io/project/186064-green-detect <br>
+
 ## Warning
 All projects, tests and experiments shown and shared in this repository may contain errors and malfunctions and are without warranty.
 
